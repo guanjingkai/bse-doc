@@ -5,12 +5,8 @@
     - [交互说明](main/ux)
 - 物料管理
     - [概念](mm/concept)
-- 仓储管理
-    - todo
-- 销售分销
-    - todo
 - 营销活动
-    - todo
+    - [概念](mm/concept)
     - [卡券](ma/voucher)
 
 
