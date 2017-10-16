@@ -7,6 +7,6 @@
     - [概念](mm/concept)
 - 营销活动
     - [概念](mm/concept)
+    - [小云积分](ma/xiaoyun)
     - [卡券](ma/voucher)
-
 
